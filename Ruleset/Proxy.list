@@ -24,6 +24,7 @@
 DOMAIN-SUFFIX,224442.xyz
 DOMAIN-SUFFIX,668556.xyz
 DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,anyrouter.top
 
 # vscode 设置同步
 DOMAIN,vscode-sync.trafficmanager.net
@@ -77,7 +78,7 @@ DOMAIN-SUFFIX,projectcalico.org
 DOMAIN-SUFFIX,kubernetes.io
 DOMAIN-SUFFIX,helm.sh
 DOMAIN-SUFFIX,mobatek.net
-DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,element-plus.org
 
 # Blog
 DOMAIN-SUFFIX,limbopro.xyz
