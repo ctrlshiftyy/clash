@@ -80,6 +80,7 @@ DOMAIN-SUFFIX,kubernetes.io
 DOMAIN-SUFFIX,helm.sh
 DOMAIN-SUFFIX,mobatek.net
 DOMAIN-SUFFIX,element-plus.org
+DOMAIN,aicodewith.com
 
 # Blog
 DOMAIN-SUFFIX,limbopro.xyz
