@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,thunderstore.io
 DOMAIN-SUFFIX,huijiwiki.com
 DOMAIN-SUFFIX,shuaiapi.com
 DOMAIN-SUFFIX,aicodewith.com
+DOMAIN,aicodewith.ai
 
 # 技术网站
 DOMAIN-SUFFIX,jenkins.io
